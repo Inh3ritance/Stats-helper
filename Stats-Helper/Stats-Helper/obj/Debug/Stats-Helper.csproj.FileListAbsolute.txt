@@ -8,3 +8,13 @@ C:\Users\marcos\source\repos\Stats-Helper\Stats-Helper\obj\Debug\Stats-Helper.cs
 C:\Users\marcos\source\repos\Stats-Helper\Stats-Helper\obj\Debug\Stats-Helper.csproj.CoreCompileInputs.cache
 C:\Users\marcos\source\repos\Stats-Helper\Stats-Helper\obj\Debug\Stats-Helper.exe
 C:\Users\marcos\source\repos\Stats-Helper\Stats-Helper\obj\Debug\Stats-Helper.pdb
+C:\Users\marcos\Documents\GitHub\Stats-helper\Stats-Helper\Stats-Helper\bin\Debug\Stats-Helper.exe.config
+C:\Users\marcos\Documents\GitHub\Stats-helper\Stats-Helper\Stats-Helper\bin\Debug\Stats-Helper.exe
+C:\Users\marcos\Documents\GitHub\Stats-helper\Stats-Helper\Stats-Helper\bin\Debug\Stats-Helper.pdb
+C:\Users\marcos\Documents\GitHub\Stats-helper\Stats-Helper\Stats-Helper\obj\Debug\Stats-Helper.csprojAssemblyReference.cache
+C:\Users\marcos\Documents\GitHub\Stats-helper\Stats-Helper\Stats-Helper\obj\Debug\Stats_Helper.Form1.resources
+C:\Users\marcos\Documents\GitHub\Stats-helper\Stats-Helper\Stats-Helper\obj\Debug\Stats_Helper.Properties.Resources.resources
+C:\Users\marcos\Documents\GitHub\Stats-helper\Stats-Helper\Stats-Helper\obj\Debug\Stats-Helper.csproj.GenerateResource.cache
+C:\Users\marcos\Documents\GitHub\Stats-helper\Stats-Helper\Stats-Helper\obj\Debug\Stats-Helper.csproj.CoreCompileInputs.cache
+C:\Users\marcos\Documents\GitHub\Stats-helper\Stats-Helper\Stats-Helper\obj\Debug\Stats-Helper.exe
+C:\Users\marcos\Documents\GitHub\Stats-helper\Stats-Helper\Stats-Helper\obj\Debug\Stats-Helper.pdb

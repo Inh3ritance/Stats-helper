@@ -180,9 +180,9 @@ namespace Stats_Helper {
             label42.Text = less_sum.ToString();
             label41.Text = (1 - greater_sum).ToString();
             label38.Text = between.ToString();
-            label37.Text = str1 + (n * k / N).ToString();
-            label36.Text = str2 + (n * k * (N - k) * (N - n) / (N * N * (N - 1))).ToString();
-            label35.Text = str3 + Math.Sqrt(n * k * (N - k) * (N - n) / (N * N * (N - 1))).ToString();
+            label37.Text = str1 + (1.0* n * k / N).ToString();
+            label36.Text = str2 + (1.0 * n * k * (N - k) * (N - n) / (N * N * (N - 1))).ToString();
+            label35.Text = str3 + Math.Sqrt(1.0 * n * k * (N - k) * (N - n) / (N * N * (N - 1))).ToString();
         }
 
         private double HyperGeometricProbability(int N, int n, int k, int x) {
